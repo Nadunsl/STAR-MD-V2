@@ -7,14 +7,14 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = ['2347045035241', 'Excel', true]
+global.owner = ['94760405012', 'Mr.Nadun', true]
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2347045035241'] 
-global.prems = ['2347045035241']
-global.allowed = ['2347045035241']
+global.mods = ['94760405102'] 
+global.prems = ['94760405102']
+global.allowed = ['94760405102']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,11 +49,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-V2'
+global.botname = 'GHOST-MD'
 global.premium = 'true'
-global.packname = 'EX-BOTS_TEAM' 
-global.author = '@EXCEL' 
-global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
+global.packname = 'MR.NADUN' 
+global.author = 'MR.NADUM' 
+global.menuvid = 'https://i.imgur.com/WfQaFaT.mp4'
 global.igfg = '▢✓ Follow My channel_ https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
