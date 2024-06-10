@@ -1,57 +1,45 @@
+# ⚠ UNDER MAINTENANCE ⚠
+
+## `⭐Star This Repo⭐` 
 
 
+___
 
-[`ℹ️ ＦＯＬＬＯＷ ＦＯＲ ＵＰＤＡＴＥＳ
-`](https://github.com/Xcelsama)
-<p align="center">
-
-
-
-
-
-
-
+[-](https://github.com/Xcelsama/STAR-V2) [ℹ️ FOLLOW FOR UPDATES
+](https://github.com/Xcelsama)
+___
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![STAR-MD-V2](https://telegra.ph/file/90db75d05675c7fae7dd0.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
-</p>
-      <p align="center">
-  <a href="https://wa.me//+2347045035241" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a aria-label="STAR-MD is free to use" href="https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-
-   
- 
-<p align="center">
-<a href='https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs' 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08" target="_blank">
-
-   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  <a
- href="https://wa.me//+2347045035241"></a>
-</p>
-
-  </a>
-
-
-<h1 align="center"> 🛰𝖲𝖳𝖠𝖱-𝖬𝖣-𝖵𝟤🛰
-</p>
-   
-
-### ℹ️ **ABOUT STAR-MD-V2**
-
->STAR-MD-V2 is based on :
+>[STAR-MD-V2](https://github.com/Xcelsama/STAR-MD-V2) is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
+[![STAR-MD-V2](https://i.imgur.com/2gd0YRc.jpeg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+</p>
 
->STAR-MD-V2 is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
+   
+ 
 
+<h1 align="center"> ℹ️ BOT INFO
+</p>
+  
+##
+STAR-MD-V2 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
+
+---------
+
+
+
+
+ 
+<h1 align="center"> 🛰𝖲𝖳𝖠𝖱-𝖬𝖣-𝖵𝟤🛰
+</p>
+ 
+---------
+<h1 align="center"> 👀REPO VIEWS👀
+</p>
 
 </a>
    <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
@@ -59,41 +47,60 @@
 
 
 
-## ⭐ `Star This Repo`
-If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.🤝
+---------
+
+
+#
+
+[](0) 
+
+ [DO YOU NEED HELP ?](#do-you-need-help)
+___
+
+### Features
+
+- ✅ | EASY TO USE
+- ✅ | AI INTEGRATED
+- ✅ | NSFW
+- ✅ | STICKER
+- ✅ | GAMES 
+- ✅ | ANIME 
+- ✅ | TOOLS
+
 
 <a 
 href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
+---------
+
+___
 
 
-📡ＦＥＡＴＵＲＥＳ📡
-
-◉ Multi-Device Support  
-◉ AI Photo Enhancement  
-◉ Downloader Commands  
-◉ Hidden NSFW Commands  
-◉ Logo Commands  
-◉ Anime Commands  
-◉ Economy Menu  
-◉ Various Games  
-◉ Audio/Video Editor Commands                   
-◉ Others...... 
-
-## 🛠️ `Installation Procedure`🛠
 
 
-```✪FORK THE REPOSITORY```
+## 📲`Installation Process`📲
 
-  <a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+___
+- FORK THE REPOSITORY
+
+<a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
-```✪PAIR-CODE```
+- 💐 PAIR-CODE  💐
+
+
+<a href="https://replit.com/@Xcelsama/cSTAR-MD-V2-PAIR?s=app" target="_blank">
+  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
 
 
 
-<a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
+- 💐 PAIR-CODE 2 💐
+
+
+
+<a href="https://replit.com/@Xcelsama/corSTAR-MD-PAIRor?s=app" target="_blank">
   <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -101,24 +108,11 @@ href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://ww
 
 
 
-```✪SCAN-QR```  
+___
 
+##  ✒️DEPLOYMENT✒️
+___
 
-<a href="https://star-multidevice-bot-qr-d70c39602209.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
-
-
-
-
-
-
-
-
-
-
-
-## ⚔️ `Deployments`⚔️
 #### DEPLOY TO HEROKU 
 
 ☉ If You don't have a account in Heroku. Create a account.
@@ -205,29 +199,50 @@ NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
-## `OWNER` 
-<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
-
-   
-
-## 🔒 `Reminder`
-Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 
-## ℹ️`Reminder`ℹ️
-  
+
+
+___
+## 📢`REMINDER`📢
+___
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
+___
+## 📝 `NOTE` 📝
+___
+Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 
 ## `CREDITS`
-Baileys by WhisjeySockets  & adiwajshing
-[![adiwajshing](https://github.com/WhiskeySockets.png?size=200)](https://github.com/WhiskeySockets) 
+___
+- BAILEYS BY  WHISJEYSOCKETS & ADIWAJSHING
+ 
+- BASE BY GURU 
 
-Base by Guru-bot
-[![GURU](https://github.com/Guru322.png?size=200)](https://github.com/Guru322) 
+- THANKS TO TEAM XLICON
+___
 
 
-Thanks to Salman & Team Xlicon
-[![Salman](https://github.com/salmanytofficial.png?size=200)](https://github.com/salmanytofficial)
+
+## 💐Do you need help💐
+This is the section that provides help. 
+- [TUTORIAL](https://github.com/Xcelsama/HOW-TO-DEPLOY-STAR-MD-V2) 
+- [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
+- [MESSAGE DEVELOPER](https://wa.me/+2347045035241) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## `💀DEVELOPER💀` 
+<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
